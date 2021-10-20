@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week8_40112</string>
+    <string name="intent1">Text Editor AND Storage</string>
+    <string name="intent2">Saved Instance AND Shared Preference</string>
+</resources>
